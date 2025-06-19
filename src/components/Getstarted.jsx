@@ -2,7 +2,8 @@ import React from 'react'
 
 const Getstarted = () => {
   return (
-    <div>
+    <div className='text-white'>
+      fghndfsgjkl
       
     </div>
   )
