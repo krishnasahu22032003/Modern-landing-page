@@ -4,7 +4,7 @@ function App() {
 
 
   return (
-    <div>
+    <div className="bg-primary w-full overflow-hidden">
       hiii
     </div>
   )
