@@ -28,15 +28,8 @@ const App =()=>(
   </div>
   <div className={`bg-primary  ${styles.paddingX} ${styles.flexStart}`} >  
     <div className={`${styles.boxWidth}`} >
-stats 
-billing 
-business
-cardeal
-testing
-clinets
-cta 
+<Stats/>
 
-footer
     </div>
 
   </div>
