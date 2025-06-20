@@ -23,25 +23,26 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Intelligent Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Unlock dynamic incentives and benefits as you engage. The more you use, the more you gain — automatically optimized for your activity.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Quantum-Secured Protocol",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Your data travels through end-to-end encrypted channels protected by next-gen security frameworks — built for tomorrow’s threats.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Instant Smart Transfers",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Experience zero-delay balance transfers powered by adaptive routing and AI-driven speed optimization — faster than ever before.",
   },
 ];
+
 
 export const feedback = [
   {
