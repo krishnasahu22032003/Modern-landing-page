@@ -31,6 +31,8 @@ const App =()=>(
 <Stats/>
 <Business/>
 <Billing/>
+<CardDeal/>
+<Testimonials/>
 
     </div>
 
