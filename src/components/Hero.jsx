@@ -31,7 +31,7 @@ const Hero = () => {
         </p>
       </div>
 
-      {/* 👇 Modified this block ONLY to add hover animation */}
+     
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative group`}>
         <img 
           src={robot} 
