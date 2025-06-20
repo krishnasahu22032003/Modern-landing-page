@@ -48,28 +48,29 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "This platform redefines how we move digital value. It's not just fast — it's intelligent, adaptive, and built for scale.",
+    name: "Riko Tanaka",
+    title: "CEO, NovaChain Systems",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "We integrated in days, not weeks. The experience is frictionless, secure, and designed for the next generation of creators.",
+    name: "Aria Nox",
+    title: "Founder, QuantumPay",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "From neural payments to instant sync — this is the most forward-thinking infrastructure we've seen in years.",
+    name: "Dr. Elias Vorn",
+    title: "CTO, SynapseCore Labs",
     img: people03,
   },
 ];
+
 
 export const stats = [
   {
