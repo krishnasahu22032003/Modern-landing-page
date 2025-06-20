@@ -92,27 +92,77 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Product",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "Overview",
+        link: "/#overview",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        name: "Features",
+        link: "/#features",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
+        name: "Integrations",
+        link: "/#integrations",
       },
       {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        name: "Pricing",
+        link: "/#pricing",
       },
       {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        name: "Security",
+        link: "/#security",
+      },
+    ],
+  },
+  {
+    title: "Resources",
+    links: [
+      {
+        name: "Help Center",
+        link: "/help",
+      },
+      {
+        name: "Guides",
+        link: "/guides",
+      },
+      {
+        name: "Blog",
+        link: "/blog",
+      },
+      {
+        name: "Newsletter",
+        link: "/newsletter",
+      },
+      {
+        name: "System Status",
+        link: "/status",
+      },
+    ],
+  },
+  {
+    title: "Company",
+    links: [
+      {
+        name: "About Us",
+        link: "/about",
+      },
+      {
+        name: "Careers",
+        link: "/careers",
+      },
+      {
+        name: "Press",
+        link: "/press",
+      },
+      {
+        name: "Terms of Service",
+        link: "/terms",
+      },
+      {
+        name: "Privacy Policy",
+        link: "/privacy",
       },
     ],
   },
@@ -120,41 +170,29 @@ export const footerLinks = [
     title: "Community",
     links: [
       {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        name: "Discord",
+        link: "https://discord.gg/yourserver",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "Twitter",
+        link: "https://twitter.com/yourhandle",
       },
       {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        name: "LinkedIn",
+        link: "https://linkedin.com/company/yourcompany",
       },
       {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        name: "Feature Requests",
+        link: "/suggestions",
       },
       {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
-    ],
-  },
-  {
-    title: "Partner",
-    links: [
-      {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        name: "Affiliates",
+        link: "/partners",
       },
     ],
   },
 ];
+
 
 export const socialMedia = [
   {
