@@ -7,7 +7,7 @@ import Billing from "./components/billing";
 import CardDeal from "./components/CardDeal";
 import CTA from "./components/CTA";
 import Footer from "./components/Footer"
-import Getstarted from "./components/Getstarted"
+import Getstart from "./components/Getstart";
 import Stats from "./components/Stats"
 import Testimonials from "./components/Testimonials"
 import FeedbackCard from "./components/FeedbackCard";
@@ -35,6 +35,7 @@ cardeal
 testing
 clinets
 cta 
+
 footer
     </div>
 
