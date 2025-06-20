@@ -2,15 +2,12 @@ import styles from "./style";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Business from "./components/Business";
-import Button from "./components/Button";
-import Billing from "./components/billing";
+import Billing from "./components/Billing";
 import CardDeal from "./components/CardDeal";
 import CTA from "./components/CTA";
 import Footer from "./components/Footer"
-import Getstart from "./components/Getstart";
 import Stats from "./components/Stats"
 import Testimonials from "./components/Testimonials"
-import FeedbackCard from "./components/FeedbackCard";
 import Clients from "./components/Clients"
 const App =()=>(
 
