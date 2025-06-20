@@ -115,8 +115,7 @@ background: radial-gradient(circle at 30% 30%, #00CFFF, #D200FF 70%);
 .white__gradient {
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
-}
-
+} 
 
 @keyframes slide-top {
   0% {
