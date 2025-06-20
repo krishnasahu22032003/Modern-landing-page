@@ -30,6 +30,7 @@ const App =()=>(
     <div className={`${styles.boxWidth}`} >
 <Stats/>
 <Business/>
+<Billing/>
 
     </div>
 
